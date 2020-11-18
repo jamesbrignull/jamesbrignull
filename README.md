@@ -2,7 +2,7 @@
 
 ## Hi there 👋, I'm James and I'm a Web Developer.
 - 🌱 I’m currently learning... Node.js
-- 🤔 I’m looking for... a mentor on my full-stack journey
+- 🤔 I’m looking for... web dev opportunities
 - 😄 Pronouns: ... He/Him
 - 🥝 Fun fact: ... Kiwis are delicious (even with the skin on)!
 
