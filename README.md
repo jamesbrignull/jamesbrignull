@@ -2,6 +2,14 @@
 
 ### Hi there 👋
 
+
+
+You can also find me on [![LinkedIn][3.2]][3].
+
+<!-- LinkedIn url and icon -->
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[2]: https://www.linkedin.com/in/james-brignull-049945183/
+
 <!--
 **jamesbrignull/jamesbrignull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
