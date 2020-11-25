@@ -1,7 +1,7 @@
 [![Header](https://i.ibb.co/x5Z7JRV/Screenshot-2020-11-18-at-21-31-11.png "Header")](https://some-url.dev/)
 
 ## Hi there 👋, I'm James and I'm a Web Developer.
-- 🌱 I’m currently learning... Node.js
+- 🌱 I’m currently practicing... building bigger and more complex apps with react and redux
 - 🤔 I’m looking for... web dev opportunities
 - 😄 Pronouns: ... He/Him
 - 🥝 Fun fact: ... Kiwis are delicious (even with the skin on)!
