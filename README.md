@@ -1,10 +1,11 @@
 [![Header](https://i.ibb.co/x5Z7JRV/Screenshot-2020-11-18-at-21-31-11.png "Header")](https://some-url.dev/)
 
-## Hi there 👋, I'm James and I'm a Web Developer.
-- 🌱 I’m currently practicing... building bigger and more complex apps with react and redux
-- 🤔 I’m looking for... web dev opportunities
-- 😄 Pronouns: ... He/Him
-- 🥝 Fun fact: ... Kiwis are delicious (even with the skin on)!
+## Hi there 👋, I'm James and I'm a Front-End Developer.
+- 🌱 I’m currently learning... about design, testing, performance and security.
+- 🤔 I’m currently working on ... react projects.
+- 💬 Ask me about ...Anything. Happy to help in any way I can!
+- 😄 Pronouns: ... He/Him.
+- 🥝 Fun fact: ... Kiwis are delicious (even with the skin on)! 
 
 ### I love coding. Here's what I regularly use:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
