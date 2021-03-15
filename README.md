@@ -1,7 +1,7 @@
 [![Header](https://i.ibb.co/x5Z7JRV/Screenshot-2020-11-18-at-21-31-11.png "Header")](https://some-url.dev/)
 
 ## Hi there 👋, I'm James and I'm a Front-End Developer.
-- 🌱 I’m currently learning... Typescript.
+- 🌱 I’m currently learning... TypeScript.
 - 🤔 I’m currently working on ...  a react project at a very exciting London-based fintech.
 - 💬 Ask me about ...Anything. Happy to help in any way I can!
 - 😄 Pronouns: ... He/Him.
