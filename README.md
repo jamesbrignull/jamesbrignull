@@ -2,7 +2,7 @@
 
 ## Hi there 👋, I'm James and I'm a Front-End Developer.
 - 🌱 I’m currently learning... TypeScript.
-- 🤔 I’m currently working on ...  a react project at a very exciting London-based fintech.
+- 💻 I’m currently working with... react, mobx, storybook, styled components, jest, enzyme, and many more...
 - 💬 Ask me about ...Anything. Happy to help in any way I can!
 - 😄 Pronouns: ... He/Him.
 - 🥝 Fun fact: ... Kiwis are delicious (even with the skin on)! 
