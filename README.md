@@ -3,7 +3,7 @@
 ## Hi there 👋, I'm James and I'm a Front-End Developer.
 - 🌱 I’m currently learning... node.js.
 - 💻 I’m currently working with... react, mobx, storybook, styled components, jest, enzyme, and many more...
-- 💬 Ask me about ...Anything. Happy to help in any way I can!
+- 💬 Ask me about ...Anything. Happy to help in any way I can on projects related to worthwhile causes. Please get in touch! 
 - 😄 Pronouns: ... He/Him.
 - 🥝 Fun fact: ... Kiwis are native to China (Chinese Gooseberry) and are delicious (even with the skin on)! 
 
