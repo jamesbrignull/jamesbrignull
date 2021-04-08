@@ -1,8 +1,9 @@
 [![Header](https://i.ibb.co/x5Z7JRV/Screenshot-2020-11-18-at-21-31-11.png "Header")](https://some-url.dev/)
 
-## Hi there 👋, I'm James and I'm a Front-End Developer.
+## Hi there 👋, I'm James and I'm a Frontend Developer.
 - 🌱 I’m currently learning... node.js.
 - 💻 I’m currently working with... react, mobx, storybook, styled components, jest, enzyme, and many more...
+- 📚 I'm current reading... Functional Programming in Javascript by Cristian Salcescu.
 - 💬 Ask me about ...Anything. Happy to help in any way I can on projects related to worthwhile causes. Please get in touch! 
 - 😄 Pronouns: ... He/Him.
 - 🥝 Fun fact: ... Kiwis are native to China (Chinese Gooseberry) and are delicious (even with the skin on)! 
