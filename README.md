@@ -1,27 +1,12 @@
 [![Header](https://i.ibb.co/x5Z7JRV/Screenshot-2020-11-18-at-21-31-11.png "Header")](https://some-url.dev/)
 
 ## Hi there 👋, I'm James and I'm a Frontend Developer.
-- 🌱 I’m currently learning... node.js and building REST APIs.
+- 🌱 I’m currently studying... Next.js
 - 💻 I’m currently working with... react, mobx, storybook, styled components, jest, enzyme, and many more...
-- 📚 I'm current reading... Functional Programming in Javascript by Cristian Salcescu.
+- 📚 I'm currently reading... Functional Programming in Javascript by Cristian Salcescu.
 - 💬 Ask me about ...Anything. Happy to help in any way I can on projects related to worthwhile causes. Please get in touch! 
 - 😄 Pronouns: ... He/Him.
 - 🥝 Fun fact: ... Kiwis are native to China (Chinese Gooseberry) and are delicious (even with the skin on)! 
-
-### I love coding. Here's some of what I regularly use:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
 
 ### Connect with me:
 
