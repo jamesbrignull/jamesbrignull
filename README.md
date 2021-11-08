@@ -1,7 +1,7 @@
-[![Header](https://i.ibb.co/x5Z7JRV/Screenshot-2020-11-18-at-21-31-11.png "Header")](https://some-url.dev/)
+<!-- [![Header](https://i.ibb.co/x5Z7JRV/Screenshot-2020-11-18-at-21-31-11.png "Header")](https://some-url.dev/) -->
 
 ## Hi there 👋, I'm James and I'm a Frontend Developer.
-- 🌱 I’m currently studying... Angular
+<!-- - 🌱 I’m currently studying... Angular -->
 - 💻 I’m currently working with... react, mobx, storybook, styled components, jest, enzyme, and many more...
 - 📚 I'm currently reading... Functional Programming in Javascript by Cristian Salcescu.
 - 💬 Ask me about ...Anything. Happy to help in any way I can on projects related to worthwhile causes. Please get in touch! 
