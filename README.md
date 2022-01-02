@@ -1,7 +1,7 @@
 <!-- [![Header](https://i.ibb.co/x5Z7JRV/Screenshot-2020-11-18-at-21-31-11.png "Header")](https://some-url.dev/) -->
 
 ## Hi there 👋, I'm James and I'm a Software Engineer.
-<!-- - 🌱 I’m currently studying... Angular -->
+<!-- - 🌱 I’m currently studying... Python & FastAPI -->
 - 💻 I’m currently working with... react, redux, typescript, storybook, styled components, jest, express, and much more...
 - 📚 I'm currently reading... Grokking Algorithims by Aditya Y. Bhargava.
 - 💬 Ask me about ...Anything. Happy to help in any way I can on projects related to worthwhile causes. Please get in touch! 
